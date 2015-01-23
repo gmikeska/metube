@@ -45,5 +45,6 @@ group :development, :test do
   gem 'spring'
   gem 'foundation-rails'
   gem 'youtube_images', '~> 1.0.1'
+  gem 'devise'
 end
 
